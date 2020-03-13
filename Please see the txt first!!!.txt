@@ -1,0 +1,7 @@
+As the "hw1.pdf" said, you need to complete the code provided in the file ‘trigram_model.py’ by writing some functions step by step according to the instructions in the "hw1.pdf".
+
+Dataset is in subfolder "hw1_data".
+
+So finaly you will need to provide me with the final "trigram_model.py" with all the complete functions.
+
+I also provide lecture notes about "trigram model" in the folder for your reference. 
