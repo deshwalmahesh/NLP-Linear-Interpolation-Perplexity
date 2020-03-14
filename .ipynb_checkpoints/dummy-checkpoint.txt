@@ -1,0 +1,5 @@
+This is first line of the doc.
+this is second line.
+testing on the, third line.
+to check what is happening around here.
+around here is something fishy as we can see it will keep only those words which have a count of greater than otwo
